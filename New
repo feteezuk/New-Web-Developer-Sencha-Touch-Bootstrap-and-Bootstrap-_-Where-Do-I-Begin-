@@ -1,0 +1,37 @@
+New Web Developer: Sencha Touch, Bootstrap, and Bootstrap – Where Do I Begin?
+
+Have you heard of Sencha Touch yet?  If you’re a mobile app developer,
+make sure you check this out because it allows you to create apps for
+several platforms including iOS, Android and Blackberry. It provides a 
+native look and feel using javascript, but it does take some time to learn. 
+
+According to their website, "Sencha Touch is the leading MVC-based JavaScript 
+framework for building cross-platform mobile web applications. Sencha Touch leverages 
+hardware acceleration techniques to provide high-performance UI components for mobile devices”. 
+This means that Sencha will be able to create Native looking themes using HTML5 and Javascript, 
+but work for many different platforms.  
+There are over a 100 pre-built UI components that can speed up development 
+which is similar to Kendo and Bootstrap.This product isn’t free, but over 60% of Fortune 
+100 are Sencha customers.  Sencha has investors from Sequoia Capital, Radar Partners and 
+Icon Ventures, and the company is based in Redwood City, California.  
+Kendo UI, owned by Progress Software Corporation and supported and partnered with HP 
+Helion Development platform, Office 365 Development platform and SAP partner which also
+provides 75+ HTML5 Jquery widgets.  There is a development certification for Kendo along 
+with a lot of support and learning documentation which is similar to bootstrap and Sencha.  
+They all include examples, tutorials, etc.  Bootstrap is the only platform that is free, and
+Sencha and Kendo requires payment.
+Kendo’s goal is similar to Sencha - to give you the developer the tools
+to develop web applications using pre-built UI-components for cross platforms. 
+Both Sencha and Kendo UI both integrate with Angular.  
+Bootstrap, the most famous HTML 5 framework’s goal is to build
+responsive mobile apps from mobile-first designs.  It uses HTML5, CSS3 and 
+Javascript components.  According to insight’s article, “This framework was 
+developed by Mark Otto and Jacob Thornton at Twitter and released as an open 
+source in August 2011 on Github. By June 2014 it was the most accessed 
+project onGithub.”  This framework is the easiest to learn and use compared 
+to the other two apps because you only need to know HTML and CSS to learn this 
+framework, while the other frameworks require knowledge of Angular which takes 
+some time to learn.  Bootstrap is free to use, while the other frameworks charge
+a fee. Whether you’re a novice or have a lot of experience in the world of web
+development, my advice is to start with HTML5 and then to move to bootstrap,
+Angular and then to try out Sencha and Kendo.  
